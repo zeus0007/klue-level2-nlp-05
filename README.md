@@ -1,5 +1,5 @@
 # KLUE LEVEL2 NLP Team 5 - ㅇㄱㄹㅇ
-
+![f938e6c9-4e60-4b5f-ac1d-7ac225430acb](https://user-images.githubusercontent.com/49517885/140634570-43b8cb9e-4fb2-405b-8549-bbabf77c606f.png)
 ## Updates
 
 * (17:53, Oct 5) 자동으로 validation dataset을 split합니다. `--val_ratio 0.2`가 default 값이며, `--val_ratio 0.0`으로 설정하면 전체 데이터를 이용해서 evaluation을 진행하게 됩니다.
